@@ -67,8 +67,8 @@ The methods are demonstrated primarily on the Unalakleet water system and then s
 It is recommended to use a virtual environment.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rcantre/Transforming-Unused-Data-into-Actionable-Insights-for-Enhanced-Water-Operations-in-Remote-Alaska
+cd Transforming-Unused-Data-into-Actionable-Insights-for-Enhanced-Water-Operations-in-Remote-Alaska
 
 # Create and activate a virtual environment
 python -m venv venv          # or: python3 -m venv venv
